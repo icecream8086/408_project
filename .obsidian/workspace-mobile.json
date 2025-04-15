@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "c1a81b9524bc8529",
+    "type": "split",
+    "children": [
+      {
+        "id": "c00f8b19d954049b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c8f18a8d5dae8c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "489201d40fb4f5e8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "df3caa7ebf2f968e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "95dd0bf554b1e32e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "ab4b559e14d5b6bf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "5a64b0e88940475a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ce48dd949cb05977",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3f3fe7f946601e32",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "未命名.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "64910177c4aebe63",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "未命名.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "2d1114c0f0aa58ba",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "未命名.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5c8f18a8d5dae8c6",
+  "lastOpenFiles": [
+    "未命名.md",
+    "未命名 1.md",
+    "操作系统/旧版/p2/2.1.1+2.1.3 进程的概念、组成、特征【公众号：研料库，料最全】.md"
+  ]
+}
