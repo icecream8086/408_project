@@ -1,0 +1,15 @@
+type: default
+checker_type: default
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: 1.in
+        output: 1.out
+      - input: 2.in
+        output: 2.out
+langs:
+  - cc.cc17
+  - cc
